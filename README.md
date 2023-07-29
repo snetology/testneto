@@ -1,1 +1,3 @@
-# Hello world.
+# Hello, world.
+
+Ya uchus v Netologii
